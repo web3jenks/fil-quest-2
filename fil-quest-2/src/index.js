@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './font/PressStart2P-Regular.ttf';
 import './custom.css';
-import 'nes.css/css/nes.min.css';
+import './css/nes.min.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

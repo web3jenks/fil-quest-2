@@ -1,6 +1,6 @@
 import './font/PressStart2P-Regular.ttf';
 import './custom.css';
-import 'nes.css/css/nes.min.css';
+import './css/nes.min.css';
 import FilecoinLogo from "./img/filecoin-logo.png";
 import IpfsLogo from "./img/ipfs-logo.png";
 import SpheronLogo from "./img/spheron-logo.png";
