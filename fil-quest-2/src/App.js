@@ -24,7 +24,7 @@ function App() {
         <div className="nes-container with-title">
           <h1 class="title">About</h1>
           <p class="nes-baloon from-left nes-pointer">
-            "This quest you will deploy an website for your hackathon project to Spheron."
+            "In this quest you will deploy a website for your hackathon project to Spheron."
             <br />
 
             <br />
@@ -136,7 +136,6 @@ function App() {
           </h2>
           <article class="article-link"><h3 class="title"><a href="https://hackathons.filecoin.io" target="_blank" rel="noopener"><span> Check out our other Hackathons</span></a></h3></article>
         </sectoin>
-
 
       </div> 
 
